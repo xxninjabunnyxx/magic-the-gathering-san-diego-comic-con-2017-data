@@ -1,0 +1,15 @@
+---
+object: set
+id: 68ba0a73-fe68-48f4-a062-4a9f663520e6
+code: ps17
+name: San Diego Comic-Con 2017
+uri: https://api.scryfall.com/sets/68ba0a73-fe68-48f4-a062-4a9f663520e6
+scryfall_uri: https://scryfall.com/sets/ps17
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aps17&unique=prints
+released_at: '2017-07-20'
+set_type: promo
+card_count: 6
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800

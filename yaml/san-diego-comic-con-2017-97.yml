@@ -1,0 +1,125 @@
+---
+object: card
+id: ca3a8a25-aa76-4a26-91a0-c1150eeed454
+oracle_id: 7fca595e-1902-40fd-a359-622caa612b6a
+multiverse_ids: []
+tcgplayer_id: 137954
+cardmarket_id: 299058
+name: Liliana, Death's Majesty
+lang: en
+released_at: '2017-07-20'
+uri: https://api.scryfall.com/cards/ca3a8a25-aa76-4a26-91a0-c1150eeed454
+scryfall_uri: https://scryfall.com/card/ps17/97/liliana-deaths-majesty?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/a/ca3a8a25-aa76-4a26-91a0-c1150eeed454.jpg?1561758084
+  normal: https://cards.scryfall.io/normal/front/c/a/ca3a8a25-aa76-4a26-91a0-c1150eeed454.jpg?1561758084
+  large: https://cards.scryfall.io/large/front/c/a/ca3a8a25-aa76-4a26-91a0-c1150eeed454.jpg?1561758084
+  png: https://cards.scryfall.io/png/front/c/a/ca3a8a25-aa76-4a26-91a0-c1150eeed454.png?1561758084
+  art_crop: https://cards.scryfall.io/art_crop/front/c/a/ca3a8a25-aa76-4a26-91a0-c1150eeed454.jpg?1561758084
+  border_crop: https://cards.scryfall.io/border_crop/front/c/a/ca3a8a25-aa76-4a26-91a0-c1150eeed454.jpg?1561758084
+mana_cost: "{3}{B}{B}"
+cmc: 5.0
+type_line: Legendary Planeswalker — Liliana
+oracle_text: |-
+  +1: Create a 2/2 black Zombie creature token. Mill two cards.
+  −3: Return target creature card from your graveyard to the battlefield. That creature is a black Zombie in addition to its other colors and types.
+  −7: Destroy all non-Zombie creatures.
+loyalty: '5'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Mill
+all_parts:
+- object: related_card
+  id: ca3a8a25-aa76-4a26-91a0-c1150eeed454
+  component: combo_piece
+  name: Liliana, Death's Majesty
+  type_line: Legendary Planeswalker — Liliana
+  uri: https://api.scryfall.com/cards/ca3a8a25-aa76-4a26-91a0-c1150eeed454
+- object: related_card
+  id: 4cf9feeb-23c3-4c3b-bc04-f50380d20197
+  component: token
+  name: Zombie
+  type_line: Token Creature — Zombie
+  uri: https://api.scryfall.com/cards/4cf9feeb-23c3-4c3b-bc04-f50380d20197
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 68ba0a73-fe68-48f4-a062-4a9f663520e6
+set: ps17
+set_name: San Diego Comic-Con 2017
+set_type: promo
+set_uri: https://api.scryfall.com/sets/68ba0a73-fe68-48f4-a062-4a9f663520e6
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps17&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps17?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ca3a8a25-aa76-4a26-91a0-c1150eeed454/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7fca595e-1902-40fd-a359-622caa612b6a&unique=prints
+collector_number: '97'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Vincent Proce
+artist_ids:
+- d82b1138-76d3-49f7-9d8c-bc2e2d3e0b0a
+illustration_id: ed0a16a0-8dd3-47bd-8e67-087f2a0b7193
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- convention
+edhrec_rank: 1397
+penny_rank: 1062
+prices:
+  usd: 
+  usd_foil: '43.20'
+  usd_etched: 
+  eur: 
+  eur_foil: '49.90'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Liliana%2C+Death%27s+Majesty&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Liliana%2C+Death%27s+Majesty&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Liliana%2C+Death%27s+Majesty
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/137954?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Liliana%2C+Death%27s+Majesty&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Liliana%2C+Death%27s+Majesty&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

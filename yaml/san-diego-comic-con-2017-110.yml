@@ -1,0 +1,126 @@
+---
+object: card
+id: 8e0717a3-c716-4150-937a-d90f4f54c550
+oracle_id: 12cc800c-c7be-4811-8207-fd01a99cc892
+multiverse_ids: []
+tcgplayer_id: 137956
+cardmarket_id: 299059
+name: Chandra, Torch of Defiance
+lang: en
+released_at: '2017-07-20'
+uri: https://api.scryfall.com/cards/8e0717a3-c716-4150-937a-d90f4f54c550
+scryfall_uri: https://scryfall.com/card/ps17/110/chandra-torch-of-defiance?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/e/8e0717a3-c716-4150-937a-d90f4f54c550.jpg?1561757553
+  normal: https://cards.scryfall.io/normal/front/8/e/8e0717a3-c716-4150-937a-d90f4f54c550.jpg?1561757553
+  large: https://cards.scryfall.io/large/front/8/e/8e0717a3-c716-4150-937a-d90f4f54c550.jpg?1561757553
+  png: https://cards.scryfall.io/png/front/8/e/8e0717a3-c716-4150-937a-d90f4f54c550.png?1561757553
+  art_crop: https://cards.scryfall.io/art_crop/front/8/e/8e0717a3-c716-4150-937a-d90f4f54c550.jpg?1561757553
+  border_crop: https://cards.scryfall.io/border_crop/front/8/e/8e0717a3-c716-4150-937a-d90f4f54c550.jpg?1561757553
+mana_cost: "{2}{R}{R}"
+cmc: 4.0
+type_line: Legendary Planeswalker — Chandra
+oracle_text: |-
+  +1: Exile the top card of your library. You may cast that card. If you don't, Chandra, Torch of Defiance deals 2 damage to each opponent.
+  +1: Add {R}{R}.
+  −3: Chandra, Torch of Defiance deals 4 damage to target creature.
+  −7: You get an emblem with "Whenever you cast a spell, this emblem deals 5 damage to any target."
+loyalty: '4'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+produced_mana:
+- R
+all_parts:
+- object: related_card
+  id: 8e0717a3-c716-4150-937a-d90f4f54c550
+  component: combo_piece
+  name: Chandra, Torch of Defiance
+  type_line: Legendary Planeswalker — Chandra
+  uri: https://api.scryfall.com/cards/8e0717a3-c716-4150-937a-d90f4f54c550
+- object: related_card
+  id: 3143984b-9798-4062-9a91-8ee139c3448e
+  component: combo_piece
+  name: Chandra, Torch of Defiance Emblem
+  type_line: Emblem — Chandra
+  uri: https://api.scryfall.com/cards/3143984b-9798-4062-9a91-8ee139c3448e
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 68ba0a73-fe68-48f4-a062-4a9f663520e6
+set: ps17
+set_name: San Diego Comic-Con 2017
+set_type: promo
+set_uri: https://api.scryfall.com/sets/68ba0a73-fe68-48f4-a062-4a9f663520e6
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps17&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps17?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8e0717a3-c716-4150-937a-d90f4f54c550/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A12cc800c-c7be-4811-8207-fd01a99cc892&unique=prints
+collector_number: '110'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Vincent Proce
+artist_ids:
+- d82b1138-76d3-49f7-9d8c-bc2e2d3e0b0a
+illustration_id: aba1a2dc-531a-4f98-b1d8-9869bebc18ee
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- convention
+edhrec_rank: 993
+prices:
+  usd: 
+  usd_foil: '37.14'
+  usd_etched: 
+  eur: 
+  eur_foil: '32.99'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Chandra%2C+Torch+of+Defiance&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Chandra%2C+Torch+of+Defiance&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Chandra%2C+Torch+of+Defiance
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/137956?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chandra%2C+Torch+of+Defiance&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chandra%2C+Torch+of+Defiance&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
